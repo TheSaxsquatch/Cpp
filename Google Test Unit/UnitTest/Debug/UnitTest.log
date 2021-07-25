@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  test.cpp
+D:\CS405\UnitTest\UnitTest\test.cpp(17,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\CS405\UnitTest\UnitTest\test.cpp(276,19): warning C4834: discarding return value of function with 'nodiscard' attribute
+D:\CS405\UnitTest\UnitTest\test.cpp(325,19): warning C4834: discarding return value of function with 'nodiscard' attribute
+  UnitTest.vcxproj -> D:\CS405\UnitTest\Debug\UnitTest.exe
