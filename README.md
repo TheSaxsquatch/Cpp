@@ -14,7 +14,8 @@
 ### 4. Triple X
 #### In this terminal game, you are a secret agent attempting to guess the 3 digit code to enter a highly secure facility. The code implements randomization of numbers using defined perameters, while loops, if-else statement implementation, variable declaration and comparison, and level incrementation with increasing difficulty. This project was completed in an effort to better understand and practice coding standards and practices while working in the unreal engine.
 
-### 1. 
+### 5. Reverse Engineering
+#### This project was my first attempt to reverse engineer from a legacy project that had errors. I transferred the binary file to assembly using gdp in the unix environment. Through trial and error I then transitioned the assembly code to the C++ file with errors. After constructing that file, I went in and added security measures and created a more seamless way for the file to function correctly. I have included the file that describes the issues that were found and the process of trasition to C++.
 ### 1. 
 ### 1. 
 
